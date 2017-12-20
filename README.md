@@ -11,6 +11,7 @@ in the directory you intend to use to run the program. The main file to run is
 Project2.java and can be run from the command line with the following:
 
 javac Project2.java
+
 java Project2
 
 If successful, you will see a menu prompting you for input. You can enter the
